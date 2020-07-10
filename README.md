@@ -1,4 +1,4 @@
-# I'm coding on both ends of the HTTP request. ✨
+### I'm coding on both ends of the HTTP request. ✨
 
 Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
 
