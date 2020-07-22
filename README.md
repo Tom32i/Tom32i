@@ -10,3 +10,7 @@ Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
 - [What the Tunes?!](https://whatthetune.com/)
 - [Lazerdrive](http://www.lazerdrive.io/)
 - [Knittar Hero](https://noel.elao.com/)
+
+#### Tools
+- [netcode](https://github.com/Tom32i/netcode): Hyper fast real-time communication engine for multiplayer games.
+- [gamepad.js](https://github.com/Tom32i/gamepad.js): Gamepad handler for the browser.
