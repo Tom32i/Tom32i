@@ -12,5 +12,6 @@ Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
 - [Knittar Hero](https://noel.elao.com/)
 
 #### Tools
+- [synchroplayer](https://github.com/Tom32i/synchroplayer): Synchronized video player for watching videos together remotely.
 - [netcode](https://github.com/Tom32i/netcode): Hyper fast real-time communication engine for multiplayer games.
 - [gamepad.js](https://github.com/Tom32i/gamepad.js): Gamepad handler for the browser.
