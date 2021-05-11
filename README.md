@@ -11,7 +11,7 @@ Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
 - [Lazerdrive](http://www.lazerdrive.io/)
 - [Knittar Hero](https://noel.elao.com/)
 
-#### Tools
+#### Open source tools I'm maintaining
 - [Stenope](https://github.com/StenopePHP/Stenope): Static website building tool for Symfony.
 - [Synchroplayer](https://github.com/Tom32i/synchroplayer): Synchronized video player for watching videos together remotely.
 - [netcode](https://github.com/Tom32i/netcode): Hyper fast real-time communication engine for multiplayer games.
