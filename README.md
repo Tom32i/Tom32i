@@ -14,7 +14,7 @@ Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
 #### Open source tools I'm maintaining
 - [Stenope](https://github.com/StenopePHP/Stenope): Static website building tool for Symfony.
 - [Synchroplayer](https://github.com/Tom32i/synchroplayer): Synchronized video player for watching videos together remotely.
-- [netcode](https://github.com/Tom32i/netcode): Hyper fast real-time communication engine for multiplayer games.
+- [netcode](https://github.com/Tom32i/netcode): Fast and efficient real-time communication engine for multiplayer games in the browser.
 - [container.js](https://github.com/Elao/container.js): Microscopic dependency injection container for Javascript.
 - [gamepad.js](https://github.com/Tom32i/gamepad.js): Gamepad handler for the browser.
-- [event-emitter.js](https://github.com/Tom32i/event-emitter.js): Minimalist JS Event Emitter system for native object to extend.
+- [event-emitter.js](https://github.com/Tom32i/event-emitter.js): Minimalist Javascript event emitter system for native object to extend.
