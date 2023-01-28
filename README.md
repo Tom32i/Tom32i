@@ -18,3 +18,4 @@ Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
 - [container.js](https://github.com/Elao/container.js): Microscopic dependency injection container for Javascript.
 - [gamepad.js](https://github.com/Tom32i/gamepad.js): Gamepad handler for the browser.
 - [event-emitter.js](https://github.com/Tom32i/event-emitter.js): Minimalist Javascript event emitter system for native object to extend.
+- [option-resolver.js](https://github.com/Tom32i/option-resolver.js): Minimalist Javascript option resolver system.
