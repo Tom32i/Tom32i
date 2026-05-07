@@ -2,10 +2,7 @@
 
 Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
 
-- All about me: https://thomas.jarrand.fr
-- Follow me on:
-  - Blusky [@tom32i.bsky.social](https://bsky.app/profile/tom32i.bsky.social) 
-  - X: [@Tom32i](https://twitter.com/tom32i)
+https://thomas.jarrand.fr
 
 #### Games I made
 - [Curvytron 2](https://curvytron2.com) 🆕
