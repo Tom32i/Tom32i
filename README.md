@@ -8,7 +8,7 @@ Hi, I'm Thomas. I'm a lead web developer based in Lyon, France.
   - X: [@Tom32i](https://twitter.com/tom32i)
 
 #### Games I made
-- [Curvytron 2](https://curvytron2.com) ⚡️
+- [Curvytron 2](https://curvytron2.com) 🆕
 - [What the Tunes?!](https://whatthetune.com/)
 - [Curvytron](https://github.com/Curvytron/curvytron)
 - [Lazerdrive](http://www.lazerdrive.io/)
